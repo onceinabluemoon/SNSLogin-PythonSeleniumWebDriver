@@ -22,4 +22,4 @@ login.click()
 
 time.sleep(1)
 
-browser.close()
+browser.quit()
