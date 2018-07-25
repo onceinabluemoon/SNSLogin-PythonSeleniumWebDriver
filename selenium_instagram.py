@@ -27,4 +27,4 @@ login.click()
 
 time.sleep(10)
 
-browser.close()
+browser.quit()
